@@ -23,6 +23,8 @@ The Opticolumn Tool Kit is a series of scripts developed to embed more accurate 
 - Avoiding all text recognition models that have demonstrated a vulnerability to hallucination.
 - Making the kit freely available to other institutions facing similar challenges.
 
+_Andrew Weymouth, Fall 2026._
+
 </details>
 
 <details class="section" markdown="1">
@@ -58,8 +60,6 @@ _Step-by-step instructions for installing and running these scripts are included
 <summary><h2 id="background">Background</h2></summary>
 
 The Opticolumn Tool Kit was developed while overhauling the [University of Idaho Library's](https://www.lib.uidaho.edu/) [digital collections](https://www.lib.uidaho.edu/digital/) to make the collection more discoverable and accessible. The development of the original [Opticolumn](https://github.com/Scholarly-Projects/opticolumn) tool is written about in greater detail in [_Transparent Practices: OCR and AI in the Archives_](https://journals.sagepub.com/doi/full/10.1177/15501906261439241) by Rebecca Hastings and Andrew Weymouth, _Collections: A Journal for Museum and Archives Professionals_, June 2026.
-
-_Andrew Weymouth, Fall 2026._
 
 </details>
 
