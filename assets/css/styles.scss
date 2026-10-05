@@ -119,7 +119,7 @@ details.section {
   width: 100%;
   margin: 0 auto;
 
-  @media (min-width: 768px) { width: 75%; }
+  @media (min-width: 768px) { width: 50%; }
 
   /* elliptical vignette: corners fade out, center stays solid */
   -webkit-mask-image: radial-gradient(ellipse 70% 70% at center, #000 60%, rgba(0, 0, 0, .25) 100%);
