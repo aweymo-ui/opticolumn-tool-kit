@@ -16,11 +16,11 @@ The Opticolumn Toolkit is a series of scripts developed to embed more accurate O
 **My goals in developing this OCR kit continue to be:**
 
 - Implementing free, open-source models for sustainability.
-- Ensuring these models don't require an API login or tokens, and run locally after their initial download, for data privacy.
+- Eschewing from large language models for text recognition to avoid vulnerability to hallucination and favor consistent, reproducible output.
+- Ensuring these open models don't require an API login or tokens, and run locally after their initial download, for data privacy.
 - Achieving a significant improvement in the accuracy of both typed and handwritten text materials.
 - Keeping file size growth relatively minimal (5–15 percent) with the addition of the OCR layer.
-- Ensuring that processed files meet the WCAG definition of "programmatic text".
-- Avoiding all text recognition models that have demonstrated a vulnerability to hallucination.
+- Ensuring that processed files meet the WCAG 2.1 definitions of "programmatic text".
 - Making the kit freely available to other institutions facing similar challenges.
 
 _Andrew Weymouth, Fall 2026._
