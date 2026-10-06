@@ -11,17 +11,20 @@ layout: page
 <details class="section" markdown="1" open>
 <summary><h2 id="overview">Overview</h2></summary>
 
-The Opticolumn Toolkit is a series of scripts developed to embed more accurate Optical Character Recognition (OCR) into a wide variety of archival documents.
+The Opticolumn Toolkit is a series of scripts developed to embed more accurate, consistent and efficient Optical Character Recognition (OCR) into a wide variety of archival documents.
 
-**My goals in developing this OCR kit continue to be:**
+<details class="section" markdown="1">
+<summary><h2 id="purpose">Purpose</h2></summary>
+
+**My intent in developing this OCR toolkit continue to be:**
 
 - Implementing free, open-source models for sustainability.
-- Eschewing from large language models for text recognition to avoid vulnerability to hallucination and favor consistent, reproducible output.
-- Ensuring these open models don't require an API login or tokens, and run locally after their initial download, for data privacy.
+- Eschewing from large language models for text recognition to avoid vulnerability to hallucination and favor reproducible output, for preservation.
+- Ensuring these open models don't require an API login or tokens, and run locally after their initial download, for privacy.
 - Achieving a significant improvement in the accuracy of both typed and handwritten text materials.
-- Keeping file size growth relatively minimal (5–15 percent) with the addition of the OCR layer.
-- Ensuring that processed files meet the WCAG 2.1 definitions of "programmatic text".
-- Making the kit freely available to other institutions facing similar challenges.
+- Keeping file size growth relatively minimal (5–15 percent), with the addition of the OCR layer.
+- Ensuring that processed files meet the WCAG 2.1 and PDF/A standards for nested archival materials.
+- Making the toolkit freely available to other institutions facing similar challenges.
 
 _Andrew Weymouth, Fall 2026._
 
