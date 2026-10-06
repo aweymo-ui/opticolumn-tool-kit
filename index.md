@@ -11,7 +11,7 @@ layout: page
 <details class="section" markdown="1" open>
 <summary><h2 id="overview">Overview</h2></summary>
 
-The Opticolumn Tool Kit is a series of scripts developed to embed more accurate Optical Character Recognition (OCR) into a wide variety of archival documents.
+The Opticolumn Toolkit is a series of scripts developed to embed more accurate Optical Character Recognition (OCR) into a wide variety of archival documents.
 
 **My goals in developing this OCR kit continue to be:**
 
@@ -30,7 +30,7 @@ _Andrew Weymouth, Fall 2026._
 <details class="section" markdown="1">
 <summary><h2 id="tools">Tools</h2></summary>
 
-The Opticolumn Tool Kit includes the following resources and applications:
+The Opticolumn Toolkit includes the following resources and applications:
 
 - [Opticolumn](https://github.com/Scholarly-Projects/opticolumn)
     - Intended for archival scans and designed for type, handwritten text, cursive or a combination of all three. The tool can handle unorthodox arrangements of text, such as annotations and marginalia, but its reading order arrangement is not as developed as the following script.
@@ -59,7 +59,7 @@ _Step-by-step instructions for installing and running these scripts are included
 <details class="section" markdown="1">
 <summary><h2 id="background">Background</h2></summary>
 
-The Opticolumn Tool Kit was developed while overhauling the [University of Idaho Library's](https://www.lib.uidaho.edu/) [digital collections](https://www.lib.uidaho.edu/digital/) to make the collection more discoverable and accessible. The development of the original [Opticolumn](https://github.com/Scholarly-Projects/opticolumn) tool is written about in greater detail in [_Transparent Practices: OCR and AI in the Archives_](https://journals.sagepub.com/doi/full/10.1177/15501906261439241) by Rebecca Hastings and Andrew Weymouth, _Collections: A Journal for Museum and Archives Professionals_, June 2026.
+The Opticolumn Toolkit was developed while overhauling the [University of Idaho Library's](https://www.lib.uidaho.edu/) [digital collections](https://www.lib.uidaho.edu/digital/) to make the collection more discoverable and accessible. The development of the original [Opticolumn](https://github.com/Scholarly-Projects/opticolumn) tool is written about in greater detail in [_Transparent Practices: OCR and AI in the Archives_](https://journals.sagepub.com/doi/full/10.1177/15501906261439241) by Rebecca Hastings and Andrew Weymouth, _Collections: A Journal for Museum and Archives Professionals_, June 2026.
 
 </details>
 
