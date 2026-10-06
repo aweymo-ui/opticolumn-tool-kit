@@ -20,7 +20,7 @@ The Opticolumn Toolkit is a series of scripts developed to embed more accurate, 
 
 - Implementing free, open-source models for sustainability.
 - Bypassing large language models for text recognition to avoid vulnerability to hallucination and favor consistent, reproducible output for preservation.
-- Ensuring these open models don't require an API login or tokens, and run locally after their initial download for privacy.
+- Ensuring models don't require an API login or tokens, and run locally after their initial download for privacy.
 - Achieving a significant improvement in the accuracy of both typed and handwritten text materials.
 - Keeping file size growth relatively minimal (5–15 percent), with the addition of the OCR layer.
 - Ensuring that processed files meet the WCAG 2.1 and PDF/A standards for nested archival materials.
@@ -51,7 +51,7 @@ _Step-by-step instructions for installing and running these scripts are included
 <details class="section" markdown="1">
 <summary><h2 id="about">About</h2></summary>
 
-- [_Transparent Practices: OCR and AI in the Archives_, published in _Collections: A Journal for Museum and Archives Professionals_, June 2026](https://journals.sagepub.com/doi/full/10.1177/15501906261439241){:target="_blank" rel="noopener"}
+- [Transparent Practices: OCR and AI in the Archives, published in _Collections: A Journal for Museum and Archives Professionals_, June 2026](https://journals.sagepub.com/doi/full/10.1177/15501906261439241){:target="_blank" rel="noopener"}
 - [OSF Repository for Post-Processing OCR Accuracy Survey](https://osf.io/9f483/overview){:target="_blank" rel="noopener"}
 - [Presentation Site for the Fall 2026 Renfrew Colloquium on the Project](https://aweymo-ui.github.io/practices-rc/){:target="_blank" rel="noopener"}
 - [Slide Deck for the Presentation](https://indd.adobe.com/view/a5ed9089-f1ec-4962-905a-75fb99c9f259){:target="_blank" rel="noopener"}
