@@ -19,8 +19,8 @@ The Opticolumn Toolkit is a series of scripts developed to embed more accurate, 
 **My intent in developing this OCR toolkit continue to be:**
 
 - Implementing free, open-source models for sustainability.
-- Eschewing from large language models for text recognition to avoid vulnerability to hallucination and favor reproducible output, for preservation.
-- Ensuring these open models don't require an API login or tokens, and run locally after their initial download, for privacy.
+- Eschewing from large language models for text recognition to avoid vulnerability to hallucination and favor reproducible output for preservation.
+- Ensuring these open models don't require an API login or tokens, and run locally after their initial download for privacy.
 - Achieving a significant improvement in the accuracy of both typed and handwritten text materials.
 - Keeping file size growth relatively minimal (5–15 percent), with the addition of the OCR layer.
 - Ensuring that processed files meet the WCAG 2.1 and PDF/A standards for nested archival materials.
