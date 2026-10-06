@@ -4,6 +4,9 @@
 
 // ---------- Variables (must come before the @import) ----------
 
+// page background color
+$bg-color: #FDFEFF;
+
 // set color for footer nav buttons (optional!)
 $nav-pills: #00448c;
 
@@ -20,7 +23,7 @@ $container-max: 750px;
 body {
   font-family: 'EB Garamond', serif;
   line-height: 1.7;
-  background-color: #F0F8FF;
+  background-color: $bg-color;
 }
 
 /* Set Playfair as the default font for all header text */
@@ -29,7 +32,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-light-blue {
-  background-color: #F0F8FF;
+  background-color: $bg-color;
+}
+
+/* top nav: !important overrides the inline background-color in the header include */
+.navbar {
+  background-color: $bg-color !important;
 }
 
 .symbol-container {
@@ -117,6 +125,7 @@ details.section {
   z-index: 1;
   display: block;
   width: 100%;
+  height: auto;
   margin: 0 auto;
 
   @media (min-width: 768px) { width: 50%; }
@@ -124,7 +133,7 @@ details.section {
   /* elliptical vignette: corners fade out, center stays solid */
   -webkit-mask-image: radial-gradient(ellipse 70% 70% at center, #000 60%, rgba(0, 0, 0, .25) 100%);
           mask-image: radial-gradient(ellipse 70% 70% at center, #000 60%, rgba(0, 0, 0, .25) 100%);
-  height: auto;
+
   animation: rise-in 1s ease-out both;
   transition: transform .4s ease;
 
