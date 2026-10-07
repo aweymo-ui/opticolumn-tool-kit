@@ -60,6 +60,13 @@ _Step-by-step instructions for installing and running these scripts are included
 </details>
 
 <details class="section" markdown="1">
+<summary><h2 id="Acknowledgements">Acknowledgements</h2></summary>
+
+Text recognition uses [TrOCR](https://huggingface.co/microsoft/trocr-large-handwritten), layout and text detection use [Surya](https://github.com/datalab-to/surya), and line segmentation uses [Kraken](https://kraken.re/). PDF processing relies on [PyMuPDF](https://pymupdf.readthedocs.io/) and [pikepdf](https://pikepdf.readthedocs.io/). The project logo is a collage adapted from _Tarjetas con Dibujos y Con Letras_ (Crane, 1975), a set of instructional ESL learning cards, used here under fair use for educational and non-commercial purposes.
+
+</details>
+
+<details class="section" markdown="1">
 <summary><h2 id="background">Background</h2></summary>
 
 The Opticolumn Toolkit was developed while overhauling the [University of Idaho Library's](https://www.lib.uidaho.edu/) [digital collections](https://www.lib.uidaho.edu/digital/) to make the collection more discoverable and accessible. The development of the original [Opticolumn](https://github.com/Scholarly-Projects/opticolumn) tool is written about in greater detail in [_Transparent Practices: OCR and AI in the Archives_](https://journals.sagepub.com/doi/full/10.1177/15501906261439241) by Rebecca Hastings and Andrew Weymouth, _Collections: A Journal for Museum and Archives Professionals_, June 2026.
